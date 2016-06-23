@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Fighting evil by ______, winning love by ______
 Never running from a JON, she is the one named ______.
+=======
+Fighting evil by MOONLIGHT, winning love by ______
+Never running from a ______, she is the one named ______.
+>>>>>>> 921299de2260ea8a723512e16be2cb32dab2a2c3
 
 She will never turn her back on her ______.
 She is always there to ______.
