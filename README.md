@@ -63,4 +63,6 @@ CONSOLE NOTES - BRANCHES
 -Deleted branch test (was 7faf2d1).
 -Connor-Offutts-MacBook-Pro:mad-libs -ConnorOffutt$ git branch -D cool-name
 -Deleted branch cool-name (was 7faf2d1).
--Connor-Offutts-MacBook-Pro:mad-libs
+-Connor-Offutts-MacBook-Pro:mad-libs -ConnorOffutt$ git diff master
+-Connor-Offutts-MacBook-Pro:mad-libs -ConnorOffutt$ git diff
+-Connor-Offutts-MacBook-Pro:mad-libs -ConnorOffutt$ git log
