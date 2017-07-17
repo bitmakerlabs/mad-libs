@@ -18,4 +18,3 @@
 ---
 
 ![Sailor Moon](sailor-moon.png)
-
